@@ -5,7 +5,7 @@
 ## 🔧 Key Features
 
 - 🌡️ **Real-time weather data** (temperature, humidity, UV, etc.) from each station  
-- 📡 **Sensor nodes**: Arduino collects data, Raspberry Pi handles network communication  
+- 📡 **Sensor nodes**: Arduino collects data, Raspberry Pi handles server communication  
 - 🧠 **Central Flask server** receives, stores, and manages the data  
 - 💾 **Persistent storage** in CSV for historical access  
 - 🖥️ **Graphical interface** to view live and past data per station  
