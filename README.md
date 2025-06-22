@@ -11,3 +11,4 @@
 - 🖥️ **Graphical interface** to view live and past data per station  
 - 📈 **Expandable architecture** – supports multiple stations across locations  
 
+![GUI](https://github.com/user-attachments/assets/17c5d53d-865f-485d-b7e5-7106eff035c8)
